@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to **software development**, **data analysis**, or anything within the **computer science** field.
 - 🤔 I’m looking for help with understanding **advanced algorithms** and **data science techniques**.
 - 💬 Ask me about my experiences in **Computer Science**, **Mathematical Computing**, or any other related topic.
-- 📫 How to reach me: Feel free to send me a message on [LinkedIn](https://www.linkedin.com/) or contact me through email at [your-email@example.com].(in process)
+- 📫 How to reach me: Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/hector-javier-salazar-alvarez-094218369/) or contact me through email at [hectorjaviersalazaralvarez00@gmail.mx], [hector.salazar@gmail.com].
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving mathematical problems and building projects that combine programming with mathematics. I also enjoy learning new things and challenging myself with complex problems!
+- ⚡ Fun fact: I like to complicate my life in easy matters and make difficult things easier.
 
 Thanks for checking out my profile! 😊
