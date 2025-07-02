@@ -1,7 +1,7 @@
 
 ---
 
-## 🇺🇸 Hi there 👋 | 🇪🇸 ¡Hola! 👋
+## 🇺🇸 Hi there 👋 | 🇲🇽 ¡Hola! 👋
 
 ### 🇺🇸 Welcome to my GitHub profile!
 
@@ -43,7 +43,7 @@ He/Him | Él
 
   🇺🇸 I tend to complicate simple things and simplify the complex ones.
   
-  🇪🇸 Suelo complicarme con lo sencillo y simplificar lo complicado.
+  🇲🇽 Suelo complicarme con lo sencillo y simplificar lo complicado.
 
 ---
 
@@ -100,19 +100,19 @@ int main() {
 
   🇺🇸 I have a solid foundation in C++ and continue improving, especially in **object-oriented programming**, **algorithms**, and **data structures**.
 
-  🇪🇸 Tengo una base sólida en C++ y sigo mejorando, especialmente en **programación orientada a objetos**, **algoritmos** y **estructuras de datos**.
+  🇲🇽 Tengo una base sólida en C++ y sigo mejorando, especialmente en **programación orientada a objetos**, **algoritmos** y **estructuras de datos**.
 
 * 🐍 **Python**
 
   🇺🇸 I’m familiar with Python and mainly use it for **data science** and **machine learning** projects.
 
-  🇪🇸 Conozco Python y lo utilizo principalmente en proyectos de **ciencia de datos** y **aprendizaje automático**.
+  🇲🇽 Conozco Python y lo utilizo principalmente en proyectos de **ciencia de datos** y **aprendizaje automático**.
 
 * 🌱 **Continuous Learning**
 
   🇺🇸 Currently exploring more advanced topics in **C++**, **Python**, **Data Science**, **Machine Learning**, and **Algorithms**.
 
-  🇪🇸 Actualmente estoy explorando temas más avanzados en **C++**, **Python**, **ciencia de datos**, **aprendizaje automático** y **algoritmos**.
+  🇲🇽 Actualmente estoy explorando temas más avanzados en **C++**, **Python**, **ciencia de datos**, **aprendizaje automático** y **algoritmos**.
 
 ---
 
@@ -122,7 +122,7 @@ int main() {
 
 🇺🇸 I'm currently focused on my degree in **Mathematical Computing** while learning to develop a **video game using C++ and C#**.
 
-🇪🇸 Actualmente estoy concentrado en mi carrera de **Computación Matemática** y aprendiendo a desarrollar un **videojuego usando C++ y C#**.
+🇲🇽 Actualmente estoy concentrado en mi carrera de **Computación Matemática** y aprendiendo a desarrollar un **videojuego usando C++ y C#**.
 
 ---
 
@@ -130,7 +130,7 @@ int main() {
 
 🇺🇸 My experiences in **Computer Science**, **Mathematical Computing**, or related topics.
 
-🇪🇸 Mi experiencia en **Ciencias de la Computación**, **Computación Matemática** o temas relacionados.
+🇲🇽 Mi experiencia en **Ciencias de la Computación**, **Computación Matemática** o temas relacionados.
 
 * 📫 **How to reach me**
   🇺🇸 Message me on [LinkedIn](https://www.linkedin.com/in/hector-javier-salazar-alvarez-094218369/) or via email at:
@@ -138,7 +138,7 @@ int main() {
   * [hectorjaviersalazaralvarez00@gmail.mx](mailto:hectorjaviersalazaralvarez00@gmail.mx)
   * [hector.salazar@gmail.com](mailto:hector.salazar@gmail.com)
 
-  🇪🇸 Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/hector-javier-salazar-alvarez-094218369/) o por correo electrónico a:
+  🇲🇽 Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/hector-javier-salazar-alvarez-094218369/) o por correo electrónico a:
 
   * [hectorjaviersalazaralvarez00@gmail.mx](mailto:hectorjaviersalazaralvarez00@gmail.mx)
   * [hector.salazar@gmail.com](mailto:hector.salazar@gmail.com)
@@ -146,4 +146,6 @@ int main() {
 ---
 
 **🇺🇸 Thanks for visiting my profile! 😊**
-**🇪🇸 ¡Gracias por visitar mi perfil! 😊**
+**🇲🇽 ¡Gracias por visitar mi perfil! 😊**
+
+![Madeline Celeste Squish](https://media.tenor.com/EDyR4hH2Uv8AAAAC/madeline-celeste.gif)
