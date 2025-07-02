@@ -79,9 +79,9 @@ int main() {
     DeveloperProfile hector = {
         "Héctor Javier Salazar Álvarez",
         "Mexico",
-        27,
+        19,
         "Guanajuato",
-        {"C", "Python"},
+        {"C, ", "Python"},
         {"C++", "Machine Learning", "Algorithms"},
         true,
         true
