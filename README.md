@@ -148,4 +148,4 @@ int main() {
 **🇺🇸 Thanks for visiting my profile! 😊**
 **🇲🇽 ¡Gracias por visitar mi perfil! 😊**
 
-![Madeline Celeste Squish](https://media.tenor.com/EDyR4hH2Uv8AAAAC/madeline-celeste.gif)
+![Madeline Celeste Squish](https://tenor.com/es/view/madeline-celeste-madeline-celeste-squish-crouch-gif-21797767)
